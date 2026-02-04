@@ -1,2 +1,5 @@
-# qa-templates
-Templates QA : plan de test, bug report, checklists
+-"Bug report template"
+
+-"Plan de test"
+
+-"Checklist recette"
